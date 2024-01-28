@@ -30,7 +30,7 @@ All my good developments are here. I publish only what I am proud of myself. I t
 
 📰 [DTF](https://dtf.ru/u/408080-moody-dan)
 
-# 🌜 Project Resident Pixel (in work)
+# 🌜 Project Darkness (in work)
 
 <p align="center">
 <img src="https://github.com/MoodyDan/My-Projects/assets/57444845/8b0430b7-208a-4c7c-9592-c83c4dc9648a">
