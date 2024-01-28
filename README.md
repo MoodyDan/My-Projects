@@ -1,7 +1,7 @@
 # 💅 My bio
 > Wellcome, Web Traveler
 
-![image](https://github.com/MoodyDan/MyProjects/assets/57444845/9112e53a-3e3b-4f08-8cee-c4e5b2a0ea07)
+![image](https://github.com/MoodyDan/My-Projects/assets/57444845/20f156e4-b1ef-49dc-a6e0-9102c46a7a1a)
 
 **Даниил (Daniel) aka Moody Dan - 22 yo from Siberia**
 
@@ -31,7 +31,10 @@ All my good developments are here. I publish only what I am proud of myself. I t
 📰 [DTF](https://dtf.ru/u/408080-moody-dan)
 
 # 🌜 Project Resident Pixel (in work)
-![image](https://github.com/MoodyDan/MyProjects/assets/57444845/d48ef8ed-ba65-488c-b457-44a3fe7e1e1e)
+
+<p align="center">
+<img src="https://github.com/MoodyDan/My-Projects/assets/57444845/8b0430b7-208a-4c7c-9592-c83c4dc9648a">
+</p>
 
 Несмотря на огромное желание сделать что-то весёлое - делаю хоррор-шутер в таймлайне позднего СССР. Так получается, что мои навыки не совместимы с фановыми идеями.
 
@@ -63,11 +66,14 @@ Top-Down мясной хоррор-шутер с пиксельной графи
 ([Видео](https://youtu.be/Rit6BDpNMmw))
 ([Скачать - PC](https://drive.google.com/file/d/11rSrAr5D5L6aEgwv8t66CrE26yd-9m2u/view?usp=sharing) **- неиграбельно, но можно побродить по локации**)
 
-![image](https://github.com/MoodyDan/PetProjects/assets/57444845/b9f87cb1-88a8-437a-bf3b-d2cbe3e4aacd)
-![image](https://github.com/MoodyDan/PetProjects/assets/57444845/50ad9fa7-e57b-4cae-b2fa-b22586297e2d)
+
 <p align="center">
-<img src="https://github.com/MoodyDan/PetProjects/assets/57444845/4908058f-c881-4679-9584-25e3dcc33adf">
+<img src="https://github.com/MoodyDan/My-Projects/assets/57444845/cd0e8751-269b-4b2c-baae-1dc93ab882fe">
+<img src="https://github.com/MoodyDan/My-Projects/assets/57444845/486ba1bc-d26e-4d8b-a478-35889127acd2">
+<img src="https://github.com/MoodyDan/My-Projects/assets/57444845/b5c98bfe-25ce-4af7-b224-db385573e1cb">
 </p>
+
+"https://github.com/MoodyDan/PetProjects/assets/57444845/4908058f-c881-4679-9584-25e3dcc33adf">
 
 
 Игра разрабатывалась командой из 4 человек (художник, программист, гейм-дизайнер и саунд-дизайнер). Я был гейм-дизайнером: придумал много забавных механик, написал диздок, подобрал озвучку, придумал сюжет, квесты и фразы персонажей.
@@ -83,7 +89,9 @@ Survivor в сеттинге русов против ящеров с 2D граф
 ([Видео](https://youtu.be/dekODOw7d8g)) 
 ([Скачать - PC](https://drive.google.com/drive/folders/1vfpJ6Kw9gvRhVKz8MY6fNoo1G2n2XBrK?usp=sharing))
 
-![Screenshot_7](https://github.com/MoodyDan/PetProjects/assets/57444845/91b17b4a-b702-483c-ac13-6f98604da263)
+<p align="center">
+<img src="https://github.com/MoodyDan/My-Projects/assets/57444845/3ae32138-b30c-414d-8d0d-6379f01e6020">
+</p>
 
 Иван живет на границе Северной Народной Республики, коммунистического государства в 1991 году. Правительство республики открыло границы для торговли. Иван отвечает за контроль поступающих в страну товаров.
 
@@ -103,9 +111,6 @@ Survivor в сеттинге русов против ящеров с 2D граф
 
 # 💢 Farpunk 2077 (in plan - mod)
 **Cyberpunk 2077 Action Shooter Rebalance**
-<p align="center">
-<img src="https://github.com/MoodyDan/PetProjects/assets/57444845/58b3e7f7-a1fc-47b1-b775-b7b53c1d0489" width="300">
-</p>
 
 В ближайшем будущем планирую сделать ребаланс для CP 2077. Мне не очень заходят RPG шутеры, и хотя патч 2.0 упростил RPG составляющую снаряжения, добавил автолевелинг противникам - мне всё ещё хотелось бы видеть Cyberpunk экшн шутером. В планах настроить баланс так, чтобы:
 - Стволы всегда наносили одинаковый урон (независимо от их уровня)
