@@ -1,9 +1,11 @@
-# 💅 My BIO
+# 💅 My bio
 > Wellcome, Web Traveler
 
 ![image](https://github.com/MoodyDan/MyProjects/assets/57444845/9112e53a-3e3b-4f08-8cee-c4e5b2a0ea07)
 
 **Даниил (Daniel) aka Moody Dan - 22 yo from Siberia**
+
+**Мужчина честной судьбы (Man of Honest Fate)**
 - **Certified** Game Designer 
 - **Noodle** Coder
 - **Armless** Artist
