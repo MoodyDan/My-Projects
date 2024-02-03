@@ -14,13 +14,13 @@
 
 Мечтаю релизнуть свою первую игру в Steam и найти своё место в гейм индустрии. Сейчас пилю инди + время от времени участвую в Джемах. Оставил попытки найти работу тк из предложений одни мобилки, казино и мобильное казино (не интересно + не уважаю). Как минимум пока не появится возможность вкатиться в крутой инди+ проект буду инициировать что-то сам.
 
-Все мои стоющие разработки собраны здесь. Публикую только то, чем сам горжусь. Стараюсь делать каждую последующую игру всё круче и круче, но мне всячески мешает необходимость писать код и создавать текстуры. Поэтому сейчас прокачиваюсь в Unity и подтягиваю рисование (преимущественно Pixel Art + смотрю в сторону мультяшной растровой графики). Мечтаю сделать игру на UE, но без пачки $ на покупку ассетов не буду даже пытаться. МБ в будущем соберу инди команду, пока такой цели (а еще кандидатов) нет. В планах писать и снимать контент об играх, есть много идей.
+Все мои стоющие разработки собраны здесь. Публикую только то, чем сам горжусь. Стараюсь делать каждую последующую игру всё круче и круче, но мне всячески мешает необходимость писать код и создавать текстуры. Поэтому сейчас прокачиваюсь в Unity и подтягиваю рисование (преимущественно Pixel Art + смотрю в сторону мультяшной растровой графики). Мечтаю сделать игру на UE, но без пачки $ на покупку ассетов не буду даже пытаться. МБ в будущем соберу инди команду. В планах писать и снимать контент об играх, есть идеи.
 
 ## For Hommies from all over the world
 
-My dream is to release my first game on Steam and find my place in the game industry. Now I'm developing indie game + from time to time participate in Jams. Left trying to find a job because of the proposals only mobiles, casino and mobile casino gamess (not interesting + not respected). At least until there will be an opportunity to get into a cool indie+ project I'm gonna do something on my own..
+My dream is to release my first game on Steam and find my place in the game industry. Now I'm developing indie game + from time to time participate in Jams. Left trying to find a job because of the proposals only mobiles, casino and mobile casino gamess (not interesting + not respected). At least until there will be an opportunity to get into a cool indie+ project I'm gonna do something on my own rn.
 
-All my good developments are here. I publish only what I am proud of myself. I try to make every next game cooler and cooler, but I am hindered by the need to code and create art. That's why now I'm pumping in Unity and LVL up drawing (mostly Pixel Art + looking for cartoon style). My big dream is to make a game on UE, but I won't even try without a bundle of $ to buy assets. Maybe I will put together an indie team in the future, for now there is no such goal (and there are still candidates).
+All my good developments are here. I publish only what i am proud of myself. I try to make every next game cooler and cooler, but so hindered by the need to code and create art. That's why now I'm pumping in Unity and LVL up drawing (mostly Pixel Art + looking for cartoon style). My big dream is to make a game on UE, but I won't even try without a bundle of $ to buy assets. MB i'll assemble a team to make games faster, but i'm so lazy.
 
 ## Links
 
